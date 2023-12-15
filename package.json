@@ -1,0 +1,26 @@
+{
+  "name": "devguff-nodejs-language-core",
+  "version": "1.0.0",
+  "description": "Demo of all basic parts of the nodejs javascript runtime. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmcguff/devguff-nodejs-language-core.git"
+  },
+  "keywords": [
+    "nodejs",
+    "javascript"
+  ],
+  "author": "Matthew McGuff",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmcguff/devguff-nodejs-language-core/issues"
+  },
+  "homepage": "https://github.com/mmcguff/devguff-nodejs-language-core#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}

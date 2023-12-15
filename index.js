@@ -1,7 +1,8 @@
-
-
+const coreLanguageService = require("./coreLanguageService");
 
 (() => {
-  const result = 'message';
-  console.log(result);
+  coreLanguageService.printHelloWorld();
+  coreLanguageService.printAllDataTypes();
+  console.log(coreLanguageService.getGreeting(true));
+  coreLanguageService.printLoop();
 })();
