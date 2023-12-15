@@ -1,5 +1,5 @@
 
-const service = require('./coreLanguageService');
+const service = require('./service');
 
 describe('devguff-nodejs-language-core', () => {
   describe("printHelloWorld", () => {
